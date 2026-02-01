@@ -62,6 +62,10 @@ This structure enables efficient joins, scalable KPI calculations, and high-perf
 
 ---
 
-8. Screenshots
+8. Dashboard Snapshot
+
+[Meta Ads Performance Dashboard](https://github.com/Tarunbabd/meta-ads-performance-analysis/blob/main/Snapshot%20of%20the%20Dashboard.png)
+   
+
 
   
